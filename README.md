@@ -1,4 +1,4 @@
-# Hosital-Management-System-DBMS
+# Hosital-Management-System-COVID
 
 
 
