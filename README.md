@@ -2,14 +2,19 @@
 
 
 
-Hospital Management System made for Sem 5 DBMS Course Project.<br>
-Hospitals interact with a lot of people in a day and there are various activities involved in day to day operations of hospitals, for example booking of appointments, managing doctor schedules, managing patient diagnoses, managing medical histories of patients, etc. The aim of this project is to show how data related to these tasks can be made easier to manage using databases.
+HMS COVID : Third Year CMPN Project.<br>
+Hospitals interact with a lot of people in a day and there are various activities involved in day to day operations of hospitals, for example booking of appointments, managing doctor schedules, managing patient diagnoses, managing medical histories of patients, etc. The aim of this project is to show how data related to these tasks can be made easier to manage using databases. 
+<br>
+The COVID pandemic had affected the world in many adversarial ways throughout the past two years. One of them was the problem of patients being unable to diagnose and communicate with their doctors due to pandemic lockdown.
+<br>
+To bridge this communication gap between the patients and the doctors, we proposed a centralized health online repository system, which allows patients to upload, add their medical concern(s) and the doctors being able to diagnose them.
+
 
 <b>Technologies Used:</b>
 <pre>
 Frontend : React.js
 Backend : Node.js, Express
-Database : MySQL
+Database : MySQL, MySQL Server
 </pre>
 
 
